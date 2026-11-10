@@ -29,41 +29,46 @@ I enjoy working across the full development cycle — understanding requirements
 - Interested in **e-commerce engineering, backend architecture, and scalable product features**
 - Focused on clean implementation, continuous learning, and maintainable code
 
-## ⚙️ TECHNOLOGY
-
-*Grouped in a rough order of overall ecosystem popularity and adoption — not a measure of personal skill level.*
+## ⚙️ TECHNOLOGY STACK
 
 <div align="center">
 
-| ORDER | TECHNOLOGY | AREA |
-|:---:|---|---|
-| 01 | **JavaScript** | Programming language |
-| 02 | **HTML5** | Markup |
-| 03 | **CSS3** | Styling |
-| 04 | **React** | Frontend library |
-| 05 | **Node.js** | JavaScript runtime |
-| 06 | **Git** · **GitHub** | Version control |
-| 07 | **Next.js** | React framework |
-| 08 | **MongoDB** | NoSQL database |
-| 09 | **Express.js** | Backend framework |
-| 10 | **MySQL** | Relational database |
-| 11 | **Bootstrap** | CSS framework |
-| 12 | **Vite** | Frontend build tool |
-| 13 | **EJS** | Server-side templating |
-| 14 | **Mongoose** | MongoDB ODM |
-| 15 | **Postman** | API development & testing |
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML5 and CSS3" />
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,nextjs,mongodb,express,mysql,bootstrap,vite,postman" alt="Core technologies and developer tools" />
+### Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,vite" alt="React, Next.js, Bootstrap and Vite" />
+
+<br/><br/>
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+
+<br/><br/>
+
+### Databases & Data Modeling
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+
+<br/><br/>
+
+### Development & API Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman and Visual Studio Code" />
+
+<br/><br/>
+
+### Integrations & Services
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Nodemailer-22A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Nodemailer" />
+<img src="https://img.shields.io/badge/Multer-555?style=for-the-badge" alt="Multer" />
 
 </div>
 
-**Backend & application concepts:** REST APIs, MVC architecture, CRUD operations, API integration, authentication, JWT, OTP verification, cart and checkout workflows.
+**Additional technologies & concepts:** EJS, Mongoose, REST APIs, MVC architecture, CRUD operations, JWT authentication, OTP verification, file uploads, payment integration, Cash on Delivery (COD), and wallet payments.
 
-**Integrations & services:** Razorpay (online payments), Cash on Delivery (COD), wallet payments, Cloudinary (media storage), Multer (file uploads), and Nodemailer (email).
-
-**Frontend & workflow:** Responsive UI development, admin dashboards, dynamic CMS features, and frontend/backend integration.
+**Popularity note:** Technologies are grouped by their role for readability, with widely adopted core technologies listed first within the stack.
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
