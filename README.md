@@ -1,143 +1,132 @@
-<!-- Modern GitHub profile README for Safa Saleem -->
+<!-- Premium GitHub profile README | Safa Saleem -->
 
 <div align="center">
 
-# Safa Saleem
+# SAFA SALEEM
 
-### Full Stack Developer | MERN Stack | Next.js
+### FULL STACK DEVELOPER
 
-Building modern web applications, thoughtful user experiences, and reliable backend systems.
+**MERN Stack · Next.js · JavaScript**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@safffaaa-181717?style=for-the-badge&logo=github)](https://github.com/safffaaa)
-[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-6C63FF?style=for-the-badge&logo=github)](https://github.com/safffaaa?tab=repositories)
+I build scalable web applications with clean interfaces, practical architecture, and reliable backend systems.
+
+<br/>
+
+<a href="https://github.com/safffaaa">
+  <img src="https://img.shields.io/badge/GitHub-safffaaa-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-315C8C?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-2D6A4F?style=flat-square" alt="Stack" />
 
 </div>
 
 ---
 
-## About Me
+## PROFILE
 
-I'm a Full Stack Developer focused on the JavaScript ecosystem, with hands-on experience building and maintaining web applications across frontend and backend.
+Full Stack Developer working across the JavaScript ecosystem, with hands-on experience developing product features, e-commerce workflows, admin dashboards, and API-driven applications.
 
-My journey into technology began with a degree in English Language and Literature. I transitioned into software development through intensive, project-based MERN stack training, followed by professional internship and product-development experience.
+I began my professional journey with a degree in **English Language and Literature** and transitioned into software development through focused, project-based MERN training and practical industry experience.
 
-I enjoy understanding how products work end to end — from responsive interfaces and reusable components to REST APIs, database design, authentication, and business logic.
+I enjoy working across the full development cycle — understanding requirements, building responsive interfaces, designing APIs, integrating databases, and refining application logic.
 
-- 💻 Currently working as a **Full Stack Developer** in a product-based environment.
-- ⚛️ Building interfaces with **React and Next.js**.
-- 🔧 Developing backend services with **Node.js, Express.js, and MongoDB**.
-- 🛒 Interested in e-commerce systems, admin dashboards, API design, and product workflows.
-- 🌱 Always learning, improving, and exploring better ways to build software.
+- Currently contributing to a **product-based software application**
+- Working with **Next.js, React, Node.js, Express, and MongoDB**
+- Interested in **e-commerce engineering, backend architecture, and scalable product features**
+- Committed to continuous learning and writing maintainable code
 
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| Frontend | HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB, Mongoose, MySQL |
-| Authentication | JWT, OTP-based authentication |
-| Integrations | Razorpay, Cloudinary, Nodemailer |
-| Tools | Git, GitHub, Postman, VS Code |
-| Concepts | MVC architecture, CRUD, API integration, responsive UI, e-commerce workflows |
+## TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,git,github,postman" alt="Technology icons">
+| FRONTEND | BACKEND | DATABASE & TOOLS |
+|:---:|:---:|:---:|
+| HTML5 · CSS3 | Node.js | MongoDB |
+| JavaScript · React | Express.js | Mongoose |
+| Next.js · Bootstrap | REST APIs | MySQL |
+| Responsive UI | Authentication | Git · GitHub · Postman |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,git,github,postman" alt="Technology stack" />
 
 </div>
 
-## Professional Experience
+**Additional experience:** JWT authentication, OTP verification, Razorpay integration, Cloudinary, Nodemailer, MVC architecture, CRUD operations, API integration, and e-commerce workflows.
+
+## EXPERIENCE
 
 ### Full Stack Developer
-**Product-based Software Company** · 2026 – Present
+**Product-Based Software Company** · 2026 — Present
 
-- Contribute to the development and maintenance of product-based web applications.
-- Work across a Next.js frontend and Node.js backend.
-- Build and maintain e-commerce features, admin modules, and dynamic content-management workflows.
-- Implement frontend functionality and connect it with backend APIs.
-- Work with product requirements and existing codebases to deliver practical features.
+- Develop and maintain features across a Next.js frontend and Node.js backend.
+- Build e-commerce functionality, admin modules, and dynamic content-management workflows.
+- Integrate frontend components with backend APIs and application services.
+- Work with existing codebases, understand business logic, and deliver feature updates.
+- Collaborate on product requirements and improve end-to-end user workflows.
 
 ### MERN Stack Developer Intern
 **DataHex Digital Solutions** · 2025
 
 - Completed a six-month internship focused on full-stack JavaScript development.
-- Gained practical experience working with MERN-based applications and existing codebases.
-- Worked with backend APIs, frontend integration, and application workflows.
-- Strengthened debugging, collaboration, and day-to-day development skills.
+- Worked with MERN-based applications and existing project codebases.
+- Gained practical experience in API development, frontend integration, and debugging.
+- Strengthened collaborative development and problem-solving skills.
 
-## Education
+## SELECTED PROJECTS
 
-### Bachelor of Arts — English Language and Literature
-**University of Calicut**
+### Al-athiqa — Antique E-commerce
+A full-stack e-commerce application for antiques and home décor, developed with **Node.js, Express.js, MongoDB, and EJS**.
 
-### MERN Stack Development Programme
-**Brototype / Brocamp, Calicut**
-
-Completed a 28-week, project-oriented programme covering web fundamentals, JavaScript, databases, Node.js, React, and problem-solving.
-
-## Featured Projects
-
-### 1. Al-athiqa — Antique E-commerce
-
-An antique and home décor e-commerce application built as a full-stack project.
-
-- Built with Node.js, Express.js, MongoDB, and EJS using an MVC structure.
-- Includes user authentication, OTP verification, cart, checkout, and admin workflows.
+- Structured the application using the MVC pattern.
+- Implemented authentication, OTP verification, cart, checkout, and admin workflows.
 - Integrated Razorpay, Cash on Delivery, and wallet payment options.
 - Used Cloudinary for product image management.
 
-**[View repository →](https://github.com/safffaaa/Al-athiqa_First-Project)**
+### CakeWorld — Cake Ordering Application
+A full-stack cake ordering application built with **React, Vite, Node.js, Express.js, and MongoDB**.
 
-### 2. CakeWorld — Cake Ordering Application
+- Developed a React-based frontend.
+- Built backend services and REST API integrations.
+- Practised end-to-end application structure and data flow.
 
-A full-stack cake ordering application with separate frontend and backend projects.
+### SpineCode — E-commerce
+An e-commerce application developed with a separate frontend and backend architecture, focusing on the integration of client-side workflows with server-side functionality.
 
-- Frontend: React and Vite.
-- Backend: Node.js, Express.js, and MongoDB.
-- Built to practise full-stack application structure and API integration.
+### Insta Recap — Next.js
+A project exploring modern frontend development patterns and application building with Next.js.
 
-**[View repository →](https://github.com/safffaaa/CakeWorld)**
+### Codeedex Blog
+A blog application organised into separate frontend and backend components, with a focus on full-stack integration.
 
-### 3. SpineCode E-commerce
+## EDUCATION
 
-An e-commerce project organised into separate frontend and backend repositories.
+**Bachelor of Arts — English Language and Literature**  
+University of Calicut
 
-- [Frontend repository](https://github.com/safffaaa/SpineCode_Ecommerce-)
-- [Backend repository](https://github.com/safffaaa/SpineCode_Ecommerce.Backend)
+**MERN Stack Development Programme**  
+Brototype / Brocamp, Calicut  
+28-week, project-oriented training covering web fundamentals, JavaScript, databases, Node.js, React, and problem-solving.
 
-### 4. Insta Recap — Next.js
+## PROFESSIONAL STRENGTHS
 
-A project exploring modern React and Next.js application development.
-
-**[View repository →](https://github.com/safffaaa/Insta-Recap-Next.js)**
-
-### 5. Codeedex Blog
-
-A blog application split into dedicated frontend and backend repositories.
-
-- [Frontend repository](https://github.com/safffaaa/codeedex_blog_frontend)
-- [Backend repository](https://github.com/safffaaa/codeedex_blogs_backend)
-
-More experiments and practice projects are available in my **[repositories](https://github.com/safffaaa?tab=repositories)**.
-
-## Strengths
-
+- Problem-solving and analytical thinking
 - Self-learning and adaptability
-- Analytical thinking and problem-solving
+- Ownership and attention to detail
 - Time management and consistency
-- Attention to detail
 - Communication and teamwork
-- Willingness to take ownership and learn from feedback
+- Openness to feedback and continuous improvement
 
-## GitHub Activity
+## GITHUB OVERVIEW
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=safffaaa&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safffaaa&layout=compact&hide_border=true" alt="Most used languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=safffaaa&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safffaaa&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=safffaaa&hide_border=true" alt="GitHub contribution streak">
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=safffaaa&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
@@ -145,10 +134,8 @@ More experiments and practice projects are available in my **[repositories](http
 
 <div align="center">
 
-### Thanks for stopping by!
+**BUILD · LEARN · IMPROVE**
 
-I'm always interested in learning, building, and collaborating on meaningful projects.
-
-**[GitHub Profile](https://github.com/safffaaa) · [All Repositories](https://github.com/safffaaa?tab=repositories)**
+*Focused on creating useful products and becoming a better engineer every day.*
 
 </div>
