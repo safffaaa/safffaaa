@@ -16,7 +16,7 @@
 
 ---
 
-## PROFILE
+## ✦ PROFILE
 
 Full Stack Developer working across the JavaScript ecosystem, with hands-on experience developing product features, e-commerce workflows, admin dashboards, and API-driven applications.
 
@@ -29,7 +29,7 @@ I enjoy working across the full development cycle — understanding requirements
 - Interested in **e-commerce engineering, backend architecture, and scalable product features**
 - Focused on clean implementation, continuous learning, and maintainable code
 
-## TECHNOLOGY
+## ⚙️ TECHNOLOGY
 
 <div align="center">
 
@@ -48,9 +48,9 @@ I enjoy working across the full development cycle — understanding requirements
 
 **Additional experience:** JWT authentication, OTP verification, Razorpay integration, Cloudinary, Nodemailer, MVC architecture, CRUD operations, API integration, and e-commerce workflows.
 
-## PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
-### Full Stack Developer
+### 🧑‍💻 Full Stack Developer
 **Product-Based Software Company** · 2026 — Present
 
 - Develop and maintain features across a Next.js frontend and Node.js backend.
@@ -58,51 +58,51 @@ I enjoy working across the full development cycle — understanding requirements
 - Integrate frontend components with backend APIs and application services.
 - Work with existing codebases, understand business logic, and deliver product features.
 
-### MERN Stack Developer Intern
+### 🛠️ MERN Stack Developer Intern
 **DataHex Digital Solutions** · 2025
 
 - Completed a six-month internship focused on full-stack JavaScript development.
 - Contributed to multiple application codebases across API and CMS work.
 - Gained practical experience in backend development, frontend integration, debugging, and working with existing projects.
 
-## PROFESSIONAL PROJECTS
+## 🚀 PROFESSIONAL PROJECTS
 
 *Selected products and modules I contributed to during my company experience.*
 
-### Current Product Company · Full Stack Development
+### 🏢 Current Product Company · Full Stack Development
 
-**E-commerce Platform**
+**🛍️ E-commerce Platform**
 - Worked across a Next.js frontend and Node.js backend.
 - Contributed to e-commerce features, order-related workflows, and product administration.
 - Worked with existing business logic and integrated frontend functionality with backend APIs.
 
-**Kids Department — Admin & Customer Experience**
+**🧸 Kids Department — Admin & Customer Experience**
 - Developed the department's admin, backend, and frontend functionality.
 - Worked on dynamic CMS features for banners, categories, products, and reels.
 - Connected product discovery and content-management workflows with the customer checkout experience.
 
-**Uracca — FIFA World Cup Experience**
+**⚽ Uracca — FIFA World Cup Experience**
 - Implemented client-side UI and functionality for the FIFA World Cup experience.
 - Aligned the customer-facing experience with the corresponding admin-side functionality.
 - Worked on the frontend flow and integration between the admin-managed content and client UI.
 
-### DataHex Digital Solutions · MERN Stack Internship
+### 💻 DataHex Digital Solutions · MERN Stack Internship
 
-**Invoice Generator**
+**🧾 Invoice Generator**
 - Worked across the Invoice Generator API and CMS codebases.
 - Contributed to the backend/API and admin-side application work.
 
-**StudentDiary / Student Support**
+**📚 StudentDiary / Student Support**
 - Worked with the StudentDiary and student-support CMS codebases.
 - Gained hands-on experience navigating and contributing to an existing application.
 
-**CNN Travels**
+**✈️ CNN Travels**
 - Worked with the CNN Travels API project.
 - Gained practical backend development and API workflow experience.
 
-## PERSONAL & TRAINING PROJECTS
+## 🧩 PERSONAL & TRAINING PROJECTS
 
-### Al-athiqa — Antique E-commerce
+### 🏺 Al-athiqa — Antique E-commerce
 A full-stack e-commerce application for antiques and home décor, developed with **Node.js, Express.js, MongoDB, and EJS**.
 
 - Structured the application using the MVC pattern.
@@ -110,23 +110,23 @@ A full-stack e-commerce application for antiques and home décor, developed with
 - Integrated Razorpay, Cash on Delivery, and wallet payment options.
 - Used Cloudinary for product image management.
 
-### CakeWorld — Cake Ordering Application
+### 🍰 CakeWorld — Cake Ordering Application
 A full-stack cake ordering application built with **React, Vite, Node.js, Express.js, and MongoDB**.
 
 - Developed a React-based frontend.
 - Built backend services and REST API integrations.
 - Practised end-to-end application structure and data flow.
 
-### SpineCode — E-commerce
+### 🛒 SpineCode — E-commerce
 An e-commerce application developed with separate frontend and backend components, focusing on client-server integration.
 
-### Insta Recap — Next.js
+### 🎞️ Insta Recap — Next.js
 A project exploring modern frontend development patterns and application building with Next.js.
 
-### Codeedex Blog
+### ✍️ Codeedex Blog
 A blog application organised into separate frontend and backend components, with a focus on full-stack integration.
 
-## EDUCATION
+## 🎓 EDUCATION
 
 **Bachelor of Arts — English Language and Literature**  
 University of Calicut
@@ -135,7 +135,7 @@ University of Calicut
 Brototype / Brocamp, Calicut  
 28-week, project-oriented training covering web fundamentals, JavaScript, databases, Node.js, React, and problem-solving.
 
-## PROFESSIONAL STRENGTHS
+## ✨ PROFESSIONAL STRENGTHS
 
 - Problem-solving and analytical thinking
 - Self-learning and adaptability
@@ -144,17 +144,7 @@ Brototype / Brocamp, Calicut
 - Communication and teamwork
 - Openness to feedback and continuous improvement
 
-## 3D CONTRIBUTION SPACE
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
-  <br/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D contribution graph" />
-</div>
-
-> The 3D contribution visuals are generated automatically by GitHub Actions and refreshed on a schedule.
-
-## GITHUB OVERVIEW
+## 📊 GITHUB OVERVIEW
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=safffaaa&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
@@ -166,7 +156,7 @@ Brototype / Brocamp, Calicut
 ---
 
 <div align="center">
-  **BUILD · LEARN · IMPROVE**
+  **◆ BUILD · LEARN · IMPROVE ◆**
 
   *Focused on creating useful products and becoming a better engineer every day.*
 
