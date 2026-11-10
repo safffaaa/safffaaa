@@ -31,22 +31,39 @@ I enjoy working across the full development cycle — understanding requirements
 
 ## ⚙️ TECHNOLOGY
 
+*Grouped in a rough order of overall ecosystem popularity and adoption — not a measure of personal skill level.*
+
 <div align="center">
 
-| FRONTEND | BACKEND | DATABASE & TOOLS |
-|:---:|:---:|:---:|
-| HTML5 · CSS3 | Node.js | MongoDB |
-| JavaScript · React | Express.js | Mongoose |
-| Next.js · Bootstrap | REST APIs | MySQL |
-| Responsive UI | Authentication | Git · GitHub · Postman |
+| ORDER | TECHNOLOGY | AREA |
+|:---:|---|---|
+| 01 | **JavaScript** | Programming language |
+| 02 | **HTML5** | Markup |
+| 03 | **CSS3** | Styling |
+| 04 | **React** | Frontend library |
+| 05 | **Node.js** | JavaScript runtime |
+| 06 | **Git** · **GitHub** | Version control |
+| 07 | **Next.js** | React framework |
+| 08 | **MongoDB** | NoSQL database |
+| 09 | **Express.js** | Backend framework |
+| 10 | **MySQL** | Relational database |
+| 11 | **Bootstrap** | CSS framework |
+| 12 | **Vite** | Frontend build tool |
+| 13 | **EJS** | Server-side templating |
+| 14 | **Mongoose** | MongoDB ODM |
+| 15 | **Postman** | API development & testing |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,bootstrap,git,github,postman" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,nextjs,mongodb,express,mysql,bootstrap,vite,postman" alt="Core technologies and developer tools" />
 
 </div>
 
-**Additional experience:** JWT authentication, OTP verification, Razorpay integration, Cloudinary, Nodemailer, MVC architecture, CRUD operations, API integration, and e-commerce workflows.
+**Backend & application concepts:** REST APIs, MVC architecture, CRUD operations, API integration, authentication, JWT, OTP verification, cart and checkout workflows.
+
+**Integrations & services:** Razorpay (online payments), Cash on Delivery (COD), wallet payments, Cloudinary (media storage), Multer (file uploads), and Nodemailer (email).
+
+**Frontend & workflow:** Responsive UI development, admin dashboards, dynamic CMS features, and frontend/backend integration.
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
